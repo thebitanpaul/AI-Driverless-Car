@@ -20,6 +20,9 @@ AI DriverLess Car is a high performance, flexible architecture which accelerates
 
 AI DriverLess Car is loaded with new modules and features but needs to be calibrated and configured perfectly before you take it for a spin. Please review the prerequisites and installation steps in detail to ensure that you are well equipped to build and launch AI DriverLess Car. You could also check out AI DriverLess Car's architecture overview for a greater understanding of AI DriverLess Car core technology and platforms.
 
+<img width="838" alt="1" src="https://user-images.githubusercontent.com/99794785/226515721-38c18137-a888-49cc-8e35-2f8ecc5077a7.png">
+
+
 ## Prerequisites
 
  AI DriverLess Car platform (stable version) is now upgraded with software packages and library dependencies of newer versions including:
